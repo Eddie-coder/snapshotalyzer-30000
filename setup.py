@@ -15,6 +15,6 @@ setup(
     ],
     entry_points='''
     [console_scripts]
-    shotty=shotty.shotty:cli
+    shotty=shotty:cli
     ''',
 )
